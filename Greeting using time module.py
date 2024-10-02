@@ -1,6 +1,6 @@
 #Check out the README.md file before running this.
 
-name=str(input("What is your name: "))   #Asking the user the name and storing in the name variable or var.
+name = str(input("What is your name: "))   #Asking the user the name and storing in the name variable or var.
 
 import time                                     #Importing time module to get real world time.
 
