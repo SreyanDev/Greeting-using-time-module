@@ -26,4 +26,4 @@ elif hours >=4 and hours < 6:
 
 else:
 
-    print(f"Good night {name}!")                #If it is not either of those then  is night.
+    print(f"Good night {name}!")                #If it is not either of those then it is night.
